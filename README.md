@@ -35,25 +35,6 @@ what did i learn?
 
 
 
-Repository overview
-├── README 
-├── Images 
-│   ├── Plots 
-│   └── Tables 
-├── DataSets 
-├── Blog.pdf 
-├── Blog_Code.ipybn 
-└── .git
-
-
-
-
-
-
-
-
-
-
 ## Running instructions
 
 
