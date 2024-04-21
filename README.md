@@ -22,10 +22,18 @@ what did i learn?
 
 ## Repository overview
 
-├── README
+├── README/
 ├── Images
+    ├── Plots
+    ├── Tables
 ├── DataSets
+├── Blog.pdf
+├── Blog_Code.ipybn
 ├── .git
+
+
+
+
 
 
 ## Running instructions
