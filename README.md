@@ -22,7 +22,7 @@ what did i learn?
 
 ## Repository overview
 
-├── README/
+├── README\n
 ├── Images
     ├── Plots
     ├── Tables
