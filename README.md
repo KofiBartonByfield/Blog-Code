@@ -24,8 +24,15 @@ what did i learn?
 
 ├── README
 ├── Images
+    ├── Plots
+    └── Tables
 ├── DataSets
-├── .git
+├── Blog.pdf
+├── Blog_Code.ipybn
+└── .git
+
+
+
 
 
 ## Running instructions
