@@ -22,14 +22,32 @@ what did i learn?
 
 ## Repository overview
 
-├── README\n
+├── README
 ├── Images
     ├── Plots
-    ├── Tables
+    └── Tables
 ├── DataSets
 ├── Blog.pdf
 ├── Blog_Code.ipybn
-├── .git
+└── .git
+
+
+
+
+
+Repository overview
+├── README 
+├── Images 
+│   ├── Plots 
+│   └── Tables 
+├── DataSets 
+├── Blog.pdf 
+├── Blog_Code.ipybn 
+└── .git
+
+
+
+
 
 
 
