@@ -22,7 +22,7 @@ what did i learn?
 
 ## Repository overview
 
-├── README
+├── README.md
 
 ├── Images
 
@@ -35,6 +35,8 @@ what did i learn?
 ├── Blog.pdf
 
 ├── Blog_Code.ipybn
+
+├── Blog.txt
 
 └── .git
 
