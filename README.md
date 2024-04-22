@@ -74,3 +74,5 @@ Python Libraries Required:
 ## About
 
 This project is part of the coursework for the BEE2041 module, focusing on data science applications in economics. The aim is to delve into real-world datasets, analyse them using various data science techniques, and present the findings through an informative blog post. By combining data-driven analysis with economic principles, this project aims to contribute to the understanding of global health challenges, particularly regarding HIV/AIDS.
+
+Any queries please contact kbartonbyfield@gmail.com
