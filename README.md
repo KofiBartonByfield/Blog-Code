@@ -33,7 +33,7 @@ Furthermore, the project represents a significant learning opportunity for the m
 
 ├── Blog.pdf
 
-├── Blog_Code.ipybn
+├── Code.ipybn
 
 ├── Blog.txt
 
@@ -61,11 +61,11 @@ Python Libraries Required:
 * requests
 * BeautifulSoup
 * pandas
-> matplotlib.pyplot
-> seaborn
-> numpy
-> geopandas
-> RandomForestRegressor
+* matplotlib.pyplot
+* seaborn
+* numpy
+* geopandas
+* RandomForestRegressor
 
 
 
