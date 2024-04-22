@@ -34,7 +34,7 @@ Furthermore, the project represents a significant learning opportunity for the m
     
 ├── DataSets
 
-├── Blog.pdf
+├── Blog Post.pdf
 
 ├── Code.ipybn
 
@@ -58,7 +58,7 @@ Furthermore, the project represents a significant learning opportunity for the m
 
 (5). Explore the generated plots and tables in the Images and Tables directories.
 
-(6). Review the blog post in Blog.pdf for a detailed explanation of the analysis and findings.
+(6). Review the blog post in Blog Post.pdf for a detailed explanation of the analysis and findings.
 
 Python Libraries Required:
 
