@@ -1,9 +1,11 @@
 --------------------------------------------------------------------------------
 Title: Empirical Project: 
+
 	 Data Science in Economics 
 	 (BEE2041)
   
 Author: Kofi Barton-Byfield
+
 Student Number: 710032265
 
 Date: 25/04/2024
