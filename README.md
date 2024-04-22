@@ -46,17 +46,21 @@ Furthermore, the project represents a significant learning opportunity for the m
 ## Running instructions
 
 (1). Clone the repository to your local machine, if you are viewing on GitHub.
+
 (2). Ensure you have all necessary Python packages installed (listed below).
+
 (3). Run the Jupyter notebook Blog_Code.ipynb to execute the code and generate plots and tables.
+
 (4). Explore the generated plots and tables in the Images and Tables directories.
+
 (5). Review the blog post in Blog.pdf for a detailed explanation of the analysis and findings.
 
 Python Libraries Required:
 
-> warnings
-> requests
-> BeautifulSoup
-> pandas
+* warnings
+* requests
+* BeautifulSoup
+* pandas
 > matplotlib.pyplot
 > seaborn
 > numpy
