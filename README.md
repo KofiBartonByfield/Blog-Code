@@ -40,6 +40,8 @@ Furthermore, the project represents a significant learning opportunity for the m
 
 ├── Blog.txt
 
+├── .ipynb_checkpoints
+
 └── .git
 
 
